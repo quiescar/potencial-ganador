@@ -1,8 +1,8 @@
 # SISTEMA DE INFORMACIÓN DE  NOMINA PARA LA EMPRESA CONSORCIO COLECTORES Z1- NOMIAPP
  ## Integrantes:
-:fa-home: CÉSAR DAVID ÁNGEL PÉREZ
-:fa-home: LAURA JOHANA RIZO BERNAL
-:fa-home: NELSON JARVEY CIFUENTES BARRAGAN
+CÉSAR DAVID ÁNGEL PÉREZ
+LAURA JOHANA RIZO BERNAL
+NELSON JARVEY CIFUENTES BARRAGAN
 ## Planteamiento del problema
 Debido a que la oficina administrativa del proyecto se encuentra alejada de las zonas de construcción, y esta es la única que tiene un sistema biométrico se encuentra el problema en el control de horario de ingreso y salida del personal.
 ### Justificación del proyecto
@@ -17,3 +17,9 @@ Desarrollar e implementar un sistema de información de recursos humanos para re
 - Desarrollar la interfaz de la aplicación en un ordenador de oficina, para ingreso, análisis y procesamiento de información.
 ### DELIMITACION Y ALCANCE
 #### MOCKUPS
+
+
+
+
+
+
