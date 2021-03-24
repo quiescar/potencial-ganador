@@ -1,6 +1,6 @@
 # SISTEMA DE INFORMACIÓN DE NOMINA PARA LA EMPRESA CONSORCIO COLECTORES Z1- NOMIAPP✨
  ## Integrantes:
-**CÉSAR DAVID ANGEL PEREZ**
+***Cesar David Angel perez***
 
 LAURA JOHANA RIZO BERNAL
 
@@ -20,9 +20,10 @@ Desarrollar e implementar un sistema de información de recursos humanos para re
 - Registrar el ingreso y salida del personal mediante el desarrollo de una aplicación móvil, por parte de los coordinadores de grupos de cada frente de obra y oficina principal este registro se realizara con carnets que portaran los trabajadores el cual llevara un código QR, para ser escaneados por la aplicación.
 - Almacenar en tiempo real la información en ordenadores del área de talento humano con fin de reducir el tiempo del informe de nómina de la empresa y garantizando la seguridad de los datos para que no sean obtenidos por terceros.
 - Desarrollar la interfaz de la aplicación en un ordenador de oficina, para ingreso, análisis y procesamiento de información.
-### DELIMITACION Y ALCANCE
-
-![image](https://user-images.githubusercontent.com/73148098/112250409-50137e00-8c27-11eb-9469-44cba87e2502.png)
+### DELIMITACION Y ALCANCE🌠
+! [imagen] (https://user-images.githubusercontent.com/73148098/112250409-50137e00-8c27-11eb-9469-44cba87e2502.png
+### DIAGRAMAS DE PROCESOS
+![image](https://user-images.githubusercontent.com/73148098/112251436-396e2680-8c29-11eb-808b-0fcbc857cd40.png)
 
 #### MOCKUPS
 
