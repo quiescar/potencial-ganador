@@ -21,7 +21,7 @@ Desarrollar e implementar un sistema de información de recursos humanos para re
 - Almacenar en tiempo real la información en ordenadores del área de talento humano con fin de reducir el tiempo del informe de nómina de la empresa y garantizando la seguridad de los datos para que no sean obtenidos por terceros.
 - Desarrollar la interfaz de la aplicación en un ordenador de oficina, para ingreso, análisis y procesamiento de información.
 ### DELIMITACION Y ALCANCE🌠
-! [imagen] (https://user-images.githubusercontent.com/73148098/112250409-50137e00-8c27-11eb-9469-44cba87e2502.png
+![image](https://user-images.githubusercontent.com/73148098/112251609-9e298100-8c29-11eb-88e6-03f9e7731f93.png)
 ### DIAGRAMAS DE PROCESOS
 ![image](https://user-images.githubusercontent.com/73148098/112251436-396e2680-8c29-11eb-808b-0fcbc857cd40.png)
 
