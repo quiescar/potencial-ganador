@@ -3,7 +3,7 @@
 CÉSAR DAVID ÁNGEL PÉREZ
 LAURA JOHANA RIZO BERNAL
 NELSON JARVEY CIFUENTES BARRAGAN
-## Planteamiento del problema
+## Planteamiento del problema 📋 
 Debido a que la oficina administrativa del proyecto se encuentra alejada de las zonas de construcción, y esta es la única que tiene un sistema biométrico se encuentra el problema en el control de horario de ingreso y salida del personal.
 ### Justificación del proyecto
 - Mediante la  creación del sistema de información, se minimizara la problemática encontrada en la empresa consorcio colectores z1 del control y registro de horas de ingreso y salida de personal. Es urgente la necesidad de automatizar y optimizar los procesos en los cuales se lea de forma verídica e inmediata la información, por esta razón se requiere desarrollar una aplicación móvil y de escritorio que permita regular el proceso de toma de información del personal de forma sencilla, 
