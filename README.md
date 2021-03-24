@@ -1,9 +1,14 @@
 # SISTEMA DE INFORMACIÓN DE NOMINA PARA LA EMPRESA CONSORCIO COLECTORES Z1- NOMIAPP✨
  ## Integrantes:
-CÉSAR DAVID ÁNGEL PÉREZ
+**CÉSAR DAVID ANGEL PEREZ**
+
 LAURA JOHANA RIZO BERNAL
+
 NELSON JARVEY CIFUENTES BARRAGAN
+
 ## Planteamiento del problema 📋 
+![NOMIAPP](https://user-images.githubusercontent.com/73148098/112249851-77b61680-8c26-11eb-8c54-7a2b41f15b64.png)
+
 Debido a que la oficina administrativa del proyecto se encuentra alejada de las zonas de construcción, y esta es la única que tiene un sistema biométrico se encuentra el problema en el control de horario de ingreso y salida del personal.
 ### Justificación del proyecto   🏗
 - Mediante la creación del sistema de información, se minimizara la problemática encontrada en la empresa consorcio colectores z1 del control y registro de horas de ingreso y salida de personal. Es urgente la necesidad de automatizar y optimizar los procesos en los cuales se lea de forma verídica e inmediata la información, por esta razón se requiere desarrollar una aplicación móvil y de escritorio que permita regular el proceso de toma de información del personal de forma sencilla,
@@ -16,8 +21,13 @@ Desarrollar e implementar un sistema de información de recursos humanos para re
 - Almacenar en tiempo real la información en ordenadores del área de talento humano con fin de reducir el tiempo del informe de nómina de la empresa y garantizando la seguridad de los datos para que no sean obtenidos por terceros.
 - Desarrollar la interfaz de la aplicación en un ordenador de oficina, para ingreso, análisis y procesamiento de información.
 ### DELIMITACION Y ALCANCE
+
+![image](https://user-images.githubusercontent.com/73148098/112250409-50137e00-8c27-11eb-9469-44cba87e2502.png)
+
 #### MOCKUPS
 
+![image](https://user-images.githubusercontent.com/73148098/112250268-12aef080-8c27-11eb-9a2d-2f0fa3403109.png)
+![image](https://user-images.githubusercontent.com/73148098/112250299-1d698580-8c27-11eb-8580-118ad074d53f.png)
 
 
 
